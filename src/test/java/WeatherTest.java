@@ -13,4 +13,9 @@ public class WeatherTest {
         Assert.assertEquals("Cloudy", Weather.getWeather());
     }
 
+    @Test
+    public void test3() {
+        Assert.assertEquals("Cloudy", Weather.getWeather());
+    }
+
 }
